@@ -22,9 +22,6 @@ Tu veux créer un message board à la Hacker News. Les utilisateurs peuvent post
 [3.4. The Hacking Class](https://github.com/QUB-SPG/exo-bdd-rails/tree/master/The-Hacking-Class)<br/>
 Tu vas encore faire un site d'éducation en ligne. Dans ce site il y aura des élèves qui peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.
 
-### Execution du programme
-
-Télécharger le fichier, puis lancer `ruby TTT.rb`
 
 ## Pré-requis
 
