@@ -1,0 +1,3 @@
+class Cour < ApplicationRecord
+
+end
